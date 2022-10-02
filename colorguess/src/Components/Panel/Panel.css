@@ -1,0 +1,42 @@
+.panel{
+    width: 450px;
+    height: 200px;
+    margin: 2em auto;
+    margin-bottom: 1em;
+    border: 1px solid black;
+}
+
+.wrong{
+    margin: 0 auto;
+    width: fit-content;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.cont{
+    margin: 1em auto;
+    margin-top: 10em;
+    height: 50px;
+}
+
+.btns{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+
+.btn{
+    transition: all 0.3s;
+    margin: 0.6em;
+    height: 3em;
+    width: 10em;
+    background-color: rgb(255, 185, 93);
+    border-radius: 9px;
+    border: 0px;
+}
+
+.btn:hover{
+    transition: all 0.3s;
+    cursor: pointer;
+    background-color: orangered;
+}

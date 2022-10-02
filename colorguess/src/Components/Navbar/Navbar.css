@@ -1,0 +1,8 @@
+.nav{
+    background-color: rgb(255, 210, 125);
+    text-align: center;
+    padding: 0.2em;
+    font-size: 30px;
+    font-weight: 600;
+    border-bottom: 3px solid black;
+}
